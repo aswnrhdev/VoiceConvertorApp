@@ -1,0 +1,1 @@
+This repository contains the code for a text-to-speech converter web app. Here, you have multiple voice options, and thus, you need to enter the text and press 'listen'. This web app is entirely designed using HTML, CSS, and JavaScript.
